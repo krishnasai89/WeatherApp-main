@@ -7,3 +7,5 @@
 - Firstly, we are specifying the API URL of OpenWeatherMap. Then we are specifying the unique API key. By defaul,t the Weather of the Pune location is been shown when the application is loaded.
 
 - Then by using the async function, we are returning the wwather of the city which is entered by the user. If the city is not valid, then an error message is been shown to the user. 
+
+Live Demo :- https://weather-app-main-theta.vercel.app/
