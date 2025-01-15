@@ -1,4 +1,4 @@
-- ApproachCreate the Weather App UI Structure using the HTML elements like <div>, <h1>, <input> and <button>. Embed all the essential CDN links for Icons, Fonts, etc. 
+- ApproachCreate the Weather App UI Structure using the HTML elements.Embed all the essential CDN links for Icons, Fonts, etc. 
 
 - Once the structure is created, the styling properties for each element like padding, box-shadow, transition, attractive effects like hovering, etc are been applied.
 
